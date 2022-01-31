@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Bojan Manojloski](mailto:bojanmanojloski@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love to wathc anime and am very passionate about Cars
+- ⚡ Fun fact: ... I love to watch anime and am very passionate about Cars
 -->
