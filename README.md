@@ -1,8 +1,6 @@
 ### Do you know how i got these scars :knife: 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Getting my degree :sweat_smile:
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... Front-end-development
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Bojan Manojloski](mailto:bojanmanojloski@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to watch anime and am very passionate about Cars
--->
