@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on ... Getting my degree :sweat_smile:
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... Front-end-development
-- 🤔 I’m looking for help with ... React.js
+- 🌱 I’m currently learning ... React.js/.NET CORE 6
+- 👯 I’m looking to collaborate on ... Software/Front-end-development
+- 🤔 I’m looking for help with ... React.js/.NET CORE 6
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Bojan Manojloski](mailto:bojanmanojloski@gmail.com)
 - 😄 Pronouns: ... He/Him
